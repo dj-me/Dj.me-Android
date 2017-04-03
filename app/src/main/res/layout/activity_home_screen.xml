@@ -125,7 +125,7 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:layout_marginTop="5dp"
-                            android:background="@drawable/join" />
+                            android:background="@drawable/joinlogo" />
 
                         <android.support.v7.widget.AppCompatTextView
                             android:id="@+id/utilityname2"

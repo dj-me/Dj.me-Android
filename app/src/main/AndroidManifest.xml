@@ -36,7 +36,9 @@
             android:windowSoftInputMode="stateHidden" />
         <activity android:name=".ytblogin" />
         <activity android:name=".YoutubeWebview" />
-        <activity android:name=".HostPanel"></activity>
+        <activity android:name=".HostPanel" />
+        <activity android:name=".join" />
+        <activity android:name=".JoinPanel"></activity>
     </application>
 
 </manifest>

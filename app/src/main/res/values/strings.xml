@@ -2,5 +2,6 @@
     <string name="app_name">DJ.me</string>
     <item name="visible" type="id" />
     <item name="masked" type="id" />
+    <string name="spinnerhead">Tap For Sessions</string>
 
 </resources>
